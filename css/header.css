@@ -45,11 +45,11 @@ body{
 	color: white;
 }
 .footer-container{
-	opacity: 0.8;
 }
 .copy-right-msg{
 	color: #aaaaaa;
 	font-size: 13px;
+	margin-top: 5.5%;
 }
 .copy-right-p{
 	margin-left: auto;
@@ -73,8 +73,8 @@ body{
 	padding-top: 1%;
 }
 .footer-sub{
-	/*background-image: url("../imgs/bg-footer-noise.jpg");*/
 	background-color: #231f20;
+	height: 150px;
 }
 .social-site-links img{
 	margin-left: 5%;

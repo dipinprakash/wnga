@@ -74,7 +74,6 @@ src: url(../fonts/Ubuntu-L.ttf);
 	padding-top: 6%;
 	padding-bottom: 7%;
 	background-color: white;
-	opacity: 0.8;
 }
 .homeslider li{
 	width: 200px;
@@ -222,7 +221,6 @@ src: url(../fonts/Ubuntu-L.ttf);
 }
 .western-ghats-slider{
 	background-color: white;
-	opacity: 0.8;
 }
 .western-sliders{
 	width: 71%;
